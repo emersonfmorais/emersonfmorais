@@ -10,5 +10,5 @@
     </div>    
 ##
 	<div style="display: inline_block"><br>
-<img src="https://img.icons8.com/color/100/000000/javascript--v1.png"/>
+		<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 	</div>

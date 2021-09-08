@@ -10,6 +10,5 @@
     </div>    
 ##
 	<div style="display: inline_block"><br>
-<img align="center" alt="Emerson-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Emerson-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/master/icons/html5/html5-original.svg">
+<img src="https://img.icons8.com/color/100/000000/javascript--v1.png"/>
 	</div>
